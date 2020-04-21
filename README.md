@@ -11,7 +11,7 @@ $ source env/bin/activate
 (env)$ git clone git@github.com:dhruvildave22/recipe-api.git
 (env)$ cd recipe-api
 (env)$ pip install -r requirements.txt
-(env)$ python manage.py runmigrations
+(env)$ python manage.py makemigrations
 (env)$ python manage.py migrate
 (env)$ python manage.py runserver
 ```
