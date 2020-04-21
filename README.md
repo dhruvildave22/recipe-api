@@ -18,3 +18,14 @@ $ source env/bin/activate
 
 The API will then be available at http://127.0.0.1:8000
 
+get api on url https://my-recipe-api-is-best.herokuapp.com/api/user/create/
+
+endpoints 
+create user: https://my-recipe-api-is-best.herokuapp.com/api/user/create/
+get token for login: https://my-recipe-api-is-best.herokuapp.com/api/user/token/
+for recipe models : https://my-recipe-api-is-best.herokuapp.com/api/recipe/
+```
+tags: https://my-recipe-api-is-best.herokuapp.com/api/recipe/tags/,
+ingredients: https://my-recipe-api-is-best.herokuapp.com/api/recipe/ingredients/,
+recipes: https://my-recipe-api-is-best.herokuapp.com/api/recipe/recipes/
+```
